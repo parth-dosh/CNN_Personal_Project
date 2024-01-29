@@ -1,5 +1,5 @@
 # CNN_Personal_Project
-I conducted personal research over the course of several months on Convolutional Neural Networks (CNNs). There are subclasses of neural networks that are architected for the task of identifying and analyzing visual imagery. My goal was to demonstrate a solid understanding of this variety of Neural Networks both mathematically and practically using the MNIST dataset. Additionally, I created a final report to summarize our process which followed a machine learning research paper model and presented it to a crowd of 45 aspiring mathematicians at UCLA. 
+I conducted personal research over the course of several months on Convolutional Neural Networks (CNNs). There are subclasses of neural networks that are architected for the task of identifying and analyzing visual imagery. My goal was to demonstrate a solid understanding of this variety of Neural Networks both mathematically and practically using the MNIST dataset. Additionally, I created a final report to summarize my process which followed a machine learning research paper model and presented it to a crowd of 45 aspiring mathematicians at UCLA. 
 
 There are three main elements of this project: 
 
